@@ -1,0 +1,17 @@
+
+.checkout-item {
+    margin-bottom: 10px;
+  }
+
+  .parent{
+    display: flex;
+    justify-content: space-between;
+  }
+#cart-card{
+    width: 100%;
+    margin: 10px;
+}
+ 
+#quan{
+    margin: 10px;
+}
